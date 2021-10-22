@@ -1,0 +1,50 @@
+Body{
+  font-family: Arial, sans-serif;
+
+}
+
+#nav-bar{
+  width: 100%;
+  background: white; 
+  text-align: right;
+}
+
+#menu-items{
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+  position: relative;
+  top: -11px;
+  margin-left: 16px;
+}
+
+#icono-menu{
+  position: relative;
+  top: -3px;
+  margin-left: 16px;
+}
+
+#menu-items:hover{
+  text-decoration: underline;
+}
+
+#profile-pic{
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin-left: 16px;
+}
+
+#img-google{
+  width: 272px;
+  height: 92px;
+  position: relative;
+  top: 152px;
+  right: -539px;
+}
+
+#search-box{
+  position: relative;
+  top: 220px;
+  right: -300px;
+}

@@ -1,0 +1,8 @@
+h1{
+	text-align: center;
+	color: blue;
+
+	/*ancho, largo difuminado color*/
+	text-shadow: 4px 4px 10px black;
+	box-shadow: 4px 4px 10px  black;
+}

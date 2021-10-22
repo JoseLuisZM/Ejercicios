@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: lightblue;
+	height: 80px;
+	position: sticky;
+	top: 0;
+}
+
+aside{
+	background-color: salmon;
+	height: 400px;
+	display: inline-block;
+	width:350px;
+	margin: 10px 10px 10px 200px;
+}
+
+section{
+	background-color: burlywood;
+	height: 400px;
+	display: inline-block;
+	width: 620px;
+	margin: 10px 130px 10px 0px;
+}
+
+footer{
+	background-color: lightgrey;
+	height: 300px;
+}

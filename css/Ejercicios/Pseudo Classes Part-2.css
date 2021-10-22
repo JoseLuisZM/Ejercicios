@@ -1,0 +1,63 @@
+/*
+Selecting the first
+
+article > p:first-of-type{;
+	backbround-color: lightcoral;
+	
+}*/
+
+/*
+Selecting the last paragraph of each article
+
+article > p:last-of-type{;
+	backbround-color: lightcoral;
+	
+}*/
+
+/*
+Selecting the second paragraph of each article
+
+article > p:nth-of-type(2 este es el numero del parrafo){
+	backbround-color: lightcoral;
+	
+}*/
+
+/*
+Selecting the second last paragraph of each article
+
+article > p:nth-last-of-type(2 este es el numero del parrafo){
+	backbround-color: lightcoral;
+	
+}*/
+
+/*
+Selecting all the paragraphs which are the first child inside the article
+
+article > p:first-child{
+	backbround-color: lightcoral;
+	
+}*/
+
+/*
+Selecting the last paragraphs which are the last child inside the article
+
+article > p:last-child{
+	backbround-color: lightcoral;
+	
+}*/
+
+/*
+Selecting the second paragraphs which are the second child inside the article
+
+article > p:nth-child(2){
+	backbround-color: lightcoral;
+	
+}*/
+
+/*
+Selecting the second last paragraphs which are the second last child inside the article
+
+article > p:nth-last-child(2){
+	backbround-color: lightcoral;
+	
+}*/
